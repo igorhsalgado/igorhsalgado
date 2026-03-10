@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Igor Hermann Salgado, tenho 19 anos e sou natural de Vitória - Espírito Santo. Estou atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na Faesa. Busco ao máximo me desenvolver a base de projetos, e estudo diário.
+Me chamo Igor Hermann Salgado, tenho 19 anos e sou natural de Vitória - Espírito Santo. Estou atualmente cursando o 3º período de Análise e Desenvolvimento de Sistemas na Faesa. Busco ao máximo me desenvolver a base de projetos, e estudo diário.
 
 ---
 
