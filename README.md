@@ -23,6 +23,15 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
+/>
+
+<img
+    align="left" 
     alt="JAVA"
     title="JAVA" 
     width="30px" 
@@ -73,4 +82,13 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
+/>
+
+<img
+    align="left" 
+    alt="DOCKER"
+    title="DOCKER" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"        
 />
