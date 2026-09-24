@@ -52,3 +52,21 @@ Me chamo Igor Hermann Salgado, tenho 19 anos e sou natural de Vitória - Espíri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"        
 />
+
+<img
+    align="left" 
+    alt="GO"
+    title="GO" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"        
+/>
+
+<img
+    align="left" 
+    alt="POSTGRESS"
+    title="POSTGRESS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgress/postgress-original.svg"        
+/>
