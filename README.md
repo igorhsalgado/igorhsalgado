@@ -15,7 +15,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Git"
-    title="GIT" 
+    title="Git" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
@@ -24,7 +24,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Github"
-    title="GITHUB" 
+    title="Github" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
@@ -33,7 +33,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Java"
-    title="JAVA" 
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -42,7 +42,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Python"
-    title="PYTHON" 
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -51,7 +51,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="MySql"
-    title="MYSQL" 
+    title="MySql" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
@@ -60,7 +60,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Spring"
-    title="SPRING" 
+    title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"        
@@ -69,7 +69,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Go"
-    title="GO" 
+    title="Go" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"        
@@ -78,7 +78,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Postgress"
-    title="POSTGRESS" 
+    title="Postgress" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
@@ -87,7 +87,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 <img
     align="left" 
     alt="Docker"
-    title="DOCKER" 
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"        
