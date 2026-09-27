@@ -14,7 +14,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="GIT"
+    alt="Git"
     title="GIT" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -23,7 +23,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="GITHUB"
+    alt="Github"
     title="GITHUB" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -32,7 +32,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="JAVA"
+    alt="Java"
     title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -41,7 +41,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="PYTHON"
+    alt="Python"
     title="PYTHON" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -50,7 +50,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="MYSQL"
+    alt="MySql"
     title="MYSQL" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -59,7 +59,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="SPRING"
+    alt="Spring"
     title="SPRING" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -68,7 +68,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="GO"
+    alt="Go"
     title="GO" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -77,7 +77,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="POSTGRESS"
+    alt="Postgress"
     title="POSTGRESS" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -86,7 +86,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="DOCKER"
+    alt="Docker"
     title="DOCKER" 
     width="30px" 
     style="padding-right: 10px;" 
