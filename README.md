@@ -1,6 +1,6 @@
 ## 👨‍💻 Igor Hermann Salgado
 
-**Desenvolvedor Backend**
+**`Desenvolvedor Backend`**
 
 Me chamo Igor Hermann Salgado, tenho 19 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
 
