@@ -14,15 +14,6 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="Github"
-    title="Github" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
-/>
-
-<img
-    align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
@@ -32,38 +23,29 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 
 <img
     align="left" 
-    alt="Python"
-    title="Python" 
+    alt="CSS3"
+    title="CSS3" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
 <img
     align="left" 
-    alt="MySql"
-    title="MySql" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>      
-
-<img
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img
@@ -77,12 +59,48 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
 
 <img
     align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>    
+
+<img
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"        
+/>
+
+<img
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/> 
+
+<img
+    align="left" 
     alt="Postgress"
     title="Postgress" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
 />
+
+<img
+    align="left" 
+    alt="MySql"
+    title="MySql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/> 
 
 <img
     align="left" 
