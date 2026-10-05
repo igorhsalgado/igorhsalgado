@@ -1,16 +1,16 @@
 ## 👨‍💻 Igor Hermann Salgado
 
-**`Backend Developer`**
+**`Desenvolvedor Backend`**
 
-My name is Igor Hermann Salgado. I'm 20 years old, from Vitória, Espírito Santo, Brazil, and I'm in the 4th semester of a Systems Analysis and Development degree at FAESA.
+Me chamo Igor Hermann Salgado, tenho 19 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
 
-I build **enterprise applications with Power Apps**, integrated with SharePoint and Dataverse, and automate internal processes with Power Automate, replacing spreadsheets and manual routines with flows that run on their own. Alongside that, I'm deepening my backend skills with **Java** and **Go**, PostgreSQL, and service integration.
+Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint e Dataverse, e automatizo processos internos com Power Automate, substituindo planilhas e rotinas manuais por fluxos que rodam sozinhos. Em paralelo, aprofundo backend com **Java** e **Go**, PostgreSQL e integração entre serviços.
 
-📌 **Currently building:** **Smart Booking**, a multi-tenant scheduling system (Go + React + PostgreSQL) developed by a team of three, with Telegram bot notifications using the *outbox* pattern and tenant isolation through Row Level Security.
+📌 **Atualmente construindo:** o **Smart Booking**, sistema de agendamentos multi-tenant (Go + React + PostgreSQL) feito em equipe de três, com notificações via bot do Telegram usando padrão *outbox* e isolamento por tenant via Row Level Security.
 
 ---
 
-### 🤖 Languages & Technologies
+### 🤖 Linguagens e Tecnologias
 
 <img
     align="left" 
