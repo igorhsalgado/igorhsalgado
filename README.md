@@ -1,16 +1,16 @@
 ## 👨‍💻 Igor Hermann Salgado
 
-**`Desenvolvedor Backend`**
+**`Backend Developer`**
 
-Me chamo Igor Hermann Salgado, tenho 19 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
+My name is Igor Hermann Salgado. I'm 20 years old, from Vitória, Espírito Santo, Brazil, and I'm in the 4th semester of a Systems Analysis and Development degree at FAESA.
 
-Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint e Dataverse, e automatizo processos internos com Power Automate — substituindo planilhas e rotinas manuais por fluxos que rodam sozinhos. Em paralelo, aprofundo backend com **Java** e **Go**, PostgreSQL e integração entre serviços.
+I build **enterprise applications with Power Apps**, integrated with SharePoint and Dataverse, and automate internal processes with Power Automate, replacing spreadsheets and manual routines with flows that run on their own. Alongside that, I'm deepening my backend skills with **Java** and **Go**, PostgreSQL, and service integration.
 
-📌 **Atualmente construindo:** o **Smart Booking**, sistema de agendamentos multi-tenant (Go + React + PostgreSQL) feito em equipe de três, com notificações via bot do Telegram usando padrão *outbox* e isolamento por tenant via Row Level Security.
+📌 **Currently building:** **Smart Booking**, a multi-tenant scheduling system (Go + React + PostgreSQL) developed by a team of three, with Telegram bot notifications using the *outbox* pattern and tenant isolation through Row Level Security.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img
     align="left" 
@@ -54,7 +54,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     title="Go" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
 />
 
 <img
@@ -64,7 +64,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>    
+/>
 
 <img
     align="left" 
@@ -72,7 +72,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <img
@@ -82,25 +82,25 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/> 
-
-<img
-    align="left" 
-    alt="Postgress"
-    title="Postgress" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
 />
 
 <img
     align="left" 
-    alt="MySql"
-    title="MySql" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/> 
+/>
 
 <img
     align="left" 
@@ -108,5 +108,7 @@ Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint
     title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
+
+<br clear="left"/>
