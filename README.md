@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Igor Hermann Salgado, tenho 19 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
+Me chamo Igor Hermann Salgado, tenho 20 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
 
 Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint e Dataverse, e automatizo processos internos com Power Automate, substituindo planilhas e rotinas manuais por fluxos que rodam sozinhos. Em paralelo, aprofundo backend com **Java** e **Go**, PostgreSQL e integração entre serviços.
 
