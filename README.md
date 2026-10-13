@@ -4,9 +4,11 @@
 
 Me chamo Igor Hermann Salgado, tenho 20 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
 
-Desenvolvo **aplicações corporativas com Power Apps**, integradas a SharePoint e Dataverse, e automatizo processos internos com Power Automate, substituindo planilhas e rotinas manuais por fluxos que rodam sozinhos. Em paralelo, aprofundo backend com **Java** e **Go**, PostgreSQL e integração entre serviços.
+Meu foco é **backend com Go e Java**, PostgreSQL e integração entre serviços.
 
 📌 **Atualmente construindo:** o **Smart Booking**, sistema de agendamentos multi-tenant (Go + React + PostgreSQL) feito em equipe de três, com notificações via bot do Telegram usando padrão *outbox* e isolamento por tenant via Row Level Security.
+
+💼 **Experiência:** estagiário como Desenvolvedor Power Platform na Prosperi desde março de 2026. Fui o desenvolvedor principal de um aplicativo de gestão de projetos Capex para uma rede hospitalar, do início do desenvolvimento ao deploy, implementando as regras de negócio específicas do cliente com Power Apps, SharePoint e Power Automate.
 
 ---
 
