@@ -1,14 +1,16 @@
 ## 👨‍💻 Igor Hermann Salgado
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Fullstack · .NET, Angular, Go e Java`**
 
 Me chamo Igor Hermann Salgado, tenho 20 anos, sou de Vitória (ES) e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA.
 
-Meu foco é **backend com Go e Java**, PostgreSQL e integração entre serviços.
+Trabalho como Desenvolvedor Fullstack (.NET + Angular) na Prosperi.
+
+Nos projetos pessoais e da faculdade, meu foco é **backend com Go e Java**, PostgreSQL e integração entre serviços.
 
 📌 **Atualmente construindo:** o **Smart Booking**, sistema de agendamentos multi-tenant (Go + React + PostgreSQL) feito em equipe de três, com notificações via bot do Telegram usando padrão *outbox* e isolamento por tenant via Row Level Security.
 
-💼 **Experiência:** estagiário como Desenvolvedor Power Platform na Prosperi desde março de 2026. Fui o desenvolvedor principal de um aplicativo de gestão de projetos Capex para uma rede hospitalar, do início do desenvolvimento ao deploy, implementando as regras de negócio específicas do cliente com Power Apps, SharePoint e Power Automate.
+🌐 **Portfólio:** [igorhsalgado.github.io/igorhsalgado-resume](https://igorhsalgado.github.io/igorhsalgado-resume/)
 
 ---
 
