@@ -72,15 +72,6 @@ Nos projetos pessoais e da faculdade, meu foco é **backend com Go e Java**, Pos
 
 <img
     align="left" 
-    alt="DotNet"
-    title="DotNet" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/docker-original.svg"
-/>
-
-<img
-    align="left" 
     alt="Spring"
     title="Spring" 
     width="30px" 
