@@ -1,19 +1,20 @@
 # Igor Hermann Salgado
 
-**Desenvolvedor Fullstack · .NET + Angular · Vitória (ES)**
+**Full Stack Developer · .NET + Angular · Vitória (ES), Brazil**
 
-Tenho 20 anos e curso o 4º período de Análise e Desenvolvimento de Sistemas na FAESA. Trabalho como Desenvolvedor Fullstack (.NET + Angular) na Prosperi. Nos projetos pessoais e da faculdade, meu foco é backend com .NET, Java e Go, usando PostgreSQL.
+I'm 20 and in the 4th semester of Systems Analysis and Development at FAESA. In personal and college projects, my focus is backend with .NET, Java and Go, using PostgreSQL.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://igorhsalgado.github.io/igorhsalgado-resume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://igorhsalgado.github.io/igorhsalgado-resume/)
 
 ---
 
-### Projetos
+### Projects
 
-| Projeto | O que faz | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [**Dayspot**](https://github.com/Dayspot-Organization/dayspot) | Plataforma multi-tenant de agendamentos: o cliente final agenda pela página pública da empresa, sem criar conta. Isolamento por tenant com Row Level Security no PostgreSQL, testes com xUnit e CI no GitHub Actions. Feito em equipe de três. | .NET 10, EF Core, Angular, PostgreSQL |
-| [**Portfólio**](https://github.com/igorhsalgado/igorhsalgado-resume) | Meu site de portfólio, publicado no GitHub Pages. Sem framework e sem etapa de build. | HTML, CSS, JavaScript |
+| [**Dayspot**](https://github.com/Dayspot-Organization/dayspot) | Multi-tenant scheduling platform: end customers book through the company's public page, without creating an account. Tenant isolation with Row Level Security in PostgreSQL, tests with xUnit and CI on GitHub Actions. Built by a team of three. | .NET 10, EF Core, Angular, PostgreSQL |
+| [**MarketFaesa**](https://github.com/ArthurNunesDev/Projeto-Integrador-Computacional) | University marketplace where FAESA students from different courses share their skills, find opportunities and connect, with JWT login, connections and messaging. Team project (FAESA's integrative project), tested with JUnit and Vitest. | Java 21, Spring Boot, PostgreSQL, Flyway, React |
+| [**Portfolio**](https://github.com/igorhsalgado/igorhsalgado-resume) | My portfolio website, published on GitHub Pages. No framework and no build step. | HTML, CSS, JavaScript |
 
 ### Tech Stack
 
@@ -33,24 +34,25 @@ Tenho 20 anos e curso o 4º período de Análise e Desenvolvimento de Sistemas n
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Dados**
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
 
-**Ferramentas**
+**Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Também já usei**
+**Also worked with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Atualmente
+### Currently
 
-- Desenvolvendo o [Dayspot](https://github.com/Dayspot-Organization/dayspot) em equipe de três.
-- Mantendo e evoluindo meu [portfólio](https://igorhsalgado.github.io/igorhsalgado-resume/).
+- Full Stack Developer at Prosperi (.NET + Angular).
+- Building [Dayspot](https://github.com/Dayspot-Organization/dayspot) with a team of three.
+- Maintaining and improving my [portfolio](https://igorhsalgado.github.io/igorhsalgado-resume/).
